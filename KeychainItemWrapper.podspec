@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # Specify the location from where the source should be retreived.
   #
-  s.source   = { :git => 'http://EXAMPLE/KeychainItemWrapper.git', :tag => '1.0.0' }
+  s.source   = { :git => 'https://github.com/susieyy/KeychainItemWrapper.git', :tag => '1.2.0' }
   # s.source   = { :svn => 'http://EXAMPLE/KeychainItemWrapper/tags/1.0.0' }
   # s.source   = { :hg  => 'http://EXAMPLE/KeychainItemWrapper', :revision => '1.0.0' }
 
